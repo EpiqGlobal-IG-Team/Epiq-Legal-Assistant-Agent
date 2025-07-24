@@ -21,3 +21,7 @@ Example Prompt: Create structured and accurate meeting summaries.
 6. Additional Use Cases
 Purpose: Explore further applications of AI in legal workflows.
 Example Prompt: Suggest five more helpful prompts for legal professionals.
+
+For instructions to install go to the wiki page:
+https://github.com/EpiqGlobal-IG-Team/Epiq-Legal-Assistant-Agent/wiki
+

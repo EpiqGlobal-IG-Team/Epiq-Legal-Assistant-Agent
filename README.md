@@ -1,5 +1,3 @@
-![test](https://github.com/EpiqGlobal-IG-Team/Epiq-Legal-Assistant-Agent/blob/main/Epiq%20Legal%20Assistant.png)
-
 Epiq Legal Assistant – Prompt Guide Overview
 This interface provides a structured guide for legal professionals to craft effective prompts for various legal tasks using AI assistance. It is divided into six key sections, each addressing a specific use case:
 

@@ -1,3 +1,5 @@
+<img width="680" height="460" alt="image" src="https://github.com/user-attachments/assets/d8d5bc04-3a59-4210-8283-8b1103a6e1e5" />
+
 Epiq Legal Assistant – Prompt Guide Overview
 This interface provides a structured guide for legal professionals to craft effective prompts for various legal tasks using AI assistance. It is divided into six key sections, each addressing a specific use case:
 
